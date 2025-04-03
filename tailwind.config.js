@@ -7,7 +7,7 @@ module.exports = {
         "sans":["Poppins", "sans-serif"]
       },
       backgroundImage:{
-        "tenis":"url('/public/assets/bg.png')"
+        "tenis":"url('./../assets/bg.png')"
       },
       keyframes:{
         floatRight:{

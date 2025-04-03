@@ -641,7 +641,7 @@ video {
 }
 
 .bg-tenis {
-  background-image: url('/public/assets/bg.png');
+  background-image: url('./../assets/bg.png');
 }
 
 .bg-cover {
